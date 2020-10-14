@@ -8,4 +8,4 @@ if x = 11:
     x * 3
 else :
     x * 0
-
+print(x)
