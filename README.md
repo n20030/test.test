@@ -1,7 +1,5 @@
 # test.test
+
+x = 10
+x = x + 1
 # test.tes
-Cdkfjj
-fdk
-jlal   jkdsaj
-  jkaj   jjdsa jklasjf jkls kljf jjj  
-jt
